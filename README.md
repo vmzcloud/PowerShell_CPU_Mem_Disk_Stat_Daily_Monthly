@@ -14,3 +14,13 @@ Daily script outputs:
 3) Disk usage
 
 Monthly script will gather the daily outputs to calculate the avergae performance stats.
+
+# Task Scheduler Screenshot
+
+## CPU_Mem_Disk_Daily
+![CPU_Mem_Disk_Daily_Triggers](ScreenShot/Task_Scheduler_CPU_Mem_Disk_Daily_Triggers.PNG) <p>
+![CPU_Mem_Disk_Daily_Actions](ScreenShot/Task_Scheduler_CPU_Mem_Disk_Daily_Actions.PNG)
+
+## CPU_Mem_Disk_Monthly
+![CPU_Mem_Disk_Monthly_Triggers](ScreenShot/Task_Scheduler_CPU_Mem_Disk_Monthly_Triggers.PNG) <p>
+![CPU_Mem_Disk_Monthly_Actions](ScreenShot/Task_Scheduler_CPU_Mem_Disk_Monthly_Actions.PNG)
